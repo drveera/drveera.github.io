@@ -2,6 +2,7 @@
 layout: post
 title: About
 permalink: /about/
+author: Veera
 ---
 
 **Dr. Veera Manikandan Rajagopal, MD, PhD**
